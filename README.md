@@ -3,7 +3,7 @@
 This is a responsive website made for internship assignment.
 
 ## Live Demo
-[Click here](https://username.github.io/anshumat-foundation/)
+[Click here](https://github.com/mishravishwajeet312-cpu/Anshumat-foundation/tree/main)
 
 ## Tech Used
 - HTML
